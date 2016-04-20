@@ -711,9 +711,9 @@ function commandList()
 	# TODO DATA             #
 	#######################*/
 	this.insert( new command( "disassemble", "-data-disassemble",[
-		new commandParam( "start", true, "-s","keyAndArg",["number","string"])
+		new commandParam( "start", true, "-s","keyAndArg",["number","string"]),
 		new commandParam( "end", true, "-e","keyAndArg",["number","string"]),
-		new commandParam( "mode", true, "--","keyAndArg",["number","string"]),
+		new commandParam( "mode", true, "--","keyAndArg",["number","string"])
 	] ) );
 	/*#######################
 	# TODO TRACEPOINT       #
