@@ -703,8 +703,8 @@ function commandList()
 	#######################*/
 
 	this.insert( new command("exam","x",[
-		new commandParam("format",false,"argOnly",["string"]),
-		new commandParam("location",true,"argOnly",["string","number"])
+		new commandParam("format",false,"","argOnly",["string"]),
+		new commandParam("location",true,"","argOnly",["string"])
 	] ) );
 
 	/*#######################
