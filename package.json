@@ -1,0 +1,73 @@
+{
+  "_args": [
+    [
+      "ngdbmi",
+      "/home/enzo/Documents/Projets"
+    ]
+  ],
+  "_from": "ngdbmi@latest",
+  "_id": "ngdbmi@0.0.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/ngdbmi",
+  "_npmUser": {
+    "email": "jbaptistebesnard@gmail.com",
+    "name": "besnardjb"
+  },
+  "_npmVersion": "1.2.15",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "ngdbmi",
+    "raw": "ngdbmi",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngdbmi/-/ngdbmi-0.0.4.tgz",
+  "_shasum": "22cac5575930b2bd1971ef7642b0fb41e2f16471",
+  "_shrinkwrap": null,
+  "_spec": "ngdbmi",
+  "_where": "/home/enzo/Documents/Projets",
+  "author": {
+    "name": "Jean-Baptiste BESNARD"
+  },
+  "bugs": {
+    "url": "https://github.com/besnardjb/ngdbmi/issues"
+  },
+  "dependencies": {},
+  "description": "A node.js GDB wrapper over the GDB/MI interface",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "22cac5575930b2bd1971ef7642b0fb41e2f16471",
+    "tarball": "https://registry.npmjs.org/ngdbmi/-/ngdbmi-0.0.4.tgz"
+  },
+  "engines": {
+    "node": ">=0.1.90"
+  },
+  "homepage": "https://github.com/besnardjb/ngdbmi/wiki",
+  "keywords": [
+    "debugger",
+    "gdb",
+    "Machine interface"
+  ],
+  "main": "ngdbmi",
+  "maintainers": [
+    {
+      "email": "jbaptistebesnard@gmail.com",
+      "name": "besnardjb"
+    }
+  ],
+  "name": "ngdbmi",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/besnardjb/ngdbmi.git"
+  },
+  "version": "0.0.4"
+}
